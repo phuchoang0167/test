@@ -1,4 +1,4 @@
-[Your project Title]
+MoonLight Events
 =======================================
 + Supervisor		: LÊ THANH NHÂN
 + Semester		: I	
