@@ -2,8 +2,8 @@
 =======================================
 + Supervisor		: LÊ THANH NHÂN
 + Semester		: I	
-+ Batch No		: [Your class name]	
-+ Group No:		: [your group no]
++ Batch No		: T5.2410.E0	
++ Group No:		: 03
 + List Of Member:
 	1. Lê Văn A  	(Student0000001)
 	2. Trần Văn Sê	(Student0000002)
@@ -11,12 +11,10 @@
 
 =======================================
 
-Documentations : https://github.com/L3nhan/doodle_group01/tree/main/Documentations
-
+Documentations : 
 =======================================
 
-Published website : https://l3nhan.github.io/doodle_group01/
-
+Published website : 
 =======================================
 
 
